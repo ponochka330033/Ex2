@@ -1,0 +1,15 @@
+D:\Desktop\HomW\Ex2\bin\Debug\net7.0\Ex2.exe
+D:\Desktop\HomW\Ex2\bin\Debug\net7.0\Ex2.deps.json
+D:\Desktop\HomW\Ex2\bin\Debug\net7.0\Ex2.runtimeconfig.json
+D:\Desktop\HomW\Ex2\bin\Debug\net7.0\Ex2.dll
+D:\Desktop\HomW\Ex2\bin\Debug\net7.0\Ex2.pdb
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.csproj.AssemblyReference.cache
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.AssemblyInfoInputs.cache
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.AssemblyInfo.cs
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.csproj.CoreCompileInputs.cache
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.dll
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\refint\Ex2.dll
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.pdb
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\Ex2.genruntimeconfig.cache
+D:\Desktop\HomW\Ex2\obj\Debug\net7.0\ref\Ex2.dll
